@@ -1,17 +1,13 @@
 {
-  "name": "learning-apis",
+  "name": "javascript-wheels",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "directories": {
-    "test": "test"
-  },
+  "description": "creating some intresting functions with pure javascript",
   "scripts": {
     "test": "jasmine-node test/*.js"
   },
   "keywords": [
     "javascript",
-    "APIs"
+    "function"
   ],
   "author": "zzsanduo",
   "license": "ISC",

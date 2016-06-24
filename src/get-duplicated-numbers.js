@@ -1,8 +1,8 @@
 /**
- * Get the duplicated items from array
+ * Get the duplicated numbers from array
  */
 
-function getDuplicatedItems1(array) {
+function getDuplicatedNumbers1(array) {
     if (!array || !Array.isArray(array)) {
         return;
     }
@@ -19,7 +19,7 @@ function getDuplicatedItems1(array) {
     return result;
 }
 
-function getDuplicatedItems2(array) {
+function getDuplicatedNumbers1(array) {
     if (!array || !Array.isArray(array)) {
         return;
     }
@@ -35,5 +35,5 @@ function getDuplicatedItems2(array) {
 
 
 
-module.exports.method1 = getDuplicatedItems1;
-module.exports.method2 = getDuplicatedItems2;
+module.exports.method1 = getDuplicatedNumbers1;
+module.exports.method2 = getDuplicatedNumbers1;
