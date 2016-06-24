@@ -1,0 +1,28 @@
+{
+  "name": "learning-apis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jasmine-node test/*.js"
+  },
+  "keywords": [
+    "javascript",
+    "APIs"
+  ],
+  "author": "zzsanduo",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine-core": "^2.4.1",
+    "jasmine-node": "^1.14.5",
+    "karma": "^1.0.0",
+    "karma-chrome-launcher": "^1.0.1",
+    "karma-jasmine": "^1.0.2"
+  },
+  "dependencies": {
+    "request": "^2.72.0"
+  }
+}
