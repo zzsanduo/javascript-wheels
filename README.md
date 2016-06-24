@@ -19,4 +19,4 @@ Welcome to add new inetersting functions and unit tests.
 ## Unit Test
 
 `npm install`
-'npm test'
+`npm test`
